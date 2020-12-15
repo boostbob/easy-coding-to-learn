@@ -1,6 +1,6 @@
 终于说到了 shell 编程，为了提高工作效率，经常我们会运行 shell 脚本来自动化的完成一些工作，shell 编程很强大但其实不需要深入学习(除非你的工作就是天天写 shell 脚本)，很多年以前就有人用 shell 编写了[俄罗斯方块游戏](https://www.unix.com/shell-programming-and-scripting/174525-tetris-game-based-shell-script-new-algorithm.html)，而且还在[不断更新](https://www.omgubuntu.co.uk/2019/06/play-tetris-terminal-linux)，先看最简单的 hello world 脚本:
 
-```
+```bash
 #!/bin/bash 
 #特殊注释，表示使用 bash 这种 shell 来运行这个脚本
 
@@ -18,7 +18,7 @@ fi
 
 上面的脚本使用了变量和 if 条件判断，变量可以显示的赋值，就像 hi，也可以来自其他命令的输入，就像now，如果不喜欢`date`的写法，可以写成now=$(date)，注意等号两边没有空格。if 的条件判断引用了隐含变量 $? 使用 -eq 运算符判断上个命令退出码是否为0，if 可以支持的判断非常多，比如判断文件是否、数值是否相等、文件的属性、字符创的长度、变量是否相等、逻辑表达式是否成立等等。在编写脚本的时候，经常需要根据目标环境使用不同的命令或者参数，下面的脚本就是判断目标环境的 linux 系统类型。
 
-```
+```bash
 #!/bin/bash
 
 
@@ -37,7 +37,7 @@ fi
 
 由于这个函数太过于常用，我们决定把它写到单独的文件中，以便可以重复使用，把公用的文件叫 lib.sh，并且把它封装成一个函数。
 
-```
+```bash
 #!/bin/bash
 
 getos() {
@@ -57,7 +57,7 @@ getos() {
 
 写一个测试文件 callos.sh 来调用它。
 
-```
+```bash
 #!/bin/bash
 
 source ./lib.sh // 执行另外一个脚本文件
@@ -68,7 +68,7 @@ getos
 
 在 lib.sh 文件中增加一个打印函数参数的函数。
 
-```
+```bash
 printargs() {
         for arg in $*; do
                 echo $arg
@@ -78,7 +78,7 @@ printargs() {
 
 用了 for 循环来遍历 $*，写一个脚本来调用它。
 
-```
+```bash
 #!/bin/bash
 
 source ./lib.sh
