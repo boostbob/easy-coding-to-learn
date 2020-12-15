@@ -1,2 +1,30 @@
-# easy-coding-to-learn
+## easy-coding-to-learn
+
 码农公园学编程-大白话教程系列归档
+
+## 原版本和视频
+
+### 文字版本:  
+- [码农公园-起步小白问题搜录](http://www.develop-developer.com/topics/ru7mRRMXL4ZNQosxS)
+- [码农公园-大白话程序员词典](http://www.develop-developer.com/topics/yJp3YYLjYQ2Qm6mG7)
+- [码农公园-大白话 Linux 教程](http://www.develop-developer.com/topics/JWuEYAXx6665hszXe)
+- [码农公园-大白话 Vim 教程](http://www.develop-developer.com/topics/tbSWMYeRubuDotbvn)
+- [码农公园-大白话 Git 教程](http://www.develop-developer.com/topics/7iESoSi7bXYkdfM4z)
+- [码农公园-大白话 Golang 教程](http://www.develop-developer.com/topics/ozbedgRzAbYy3xgcD)
+- [码农公园-大白话 Node 教程](http://www.develop-developer.com/topics/u2FMkKa6ZcnThbvSz)
+- [码农公园-大白话 PHP 教程](http://www.develop-developer.com/topics/efupY3vfgPGDyo53X)
+- [码农公园-大白话 Python 教程](http://www.develop-developer.com/topics/tQ5iBaLqiezesMe62)
+
+
+### 视频版本: 
+- [码农公园-大白话学编程视频列表](http://www.develop-developer.com/guide_list)
+
+## 编写不易
+
+编写这些教程不仅需要大量的编程知识，还需要做大量的实践、整理和测试，如果对你有用，请你点个 star 鼓励作者继续写下去。  
+欢迎 issue 和 fork，但未经作者同意，请勿转载到其他网站。
+
+## 联系作者
+
+如果你在学习过程中有任何问题可以添加我的VX号 **wx17729835675** 免费答疑，还可加入 **码农公园预备营** 深入学习。
+![](http://develop-developer.oss-cn-hangzhou.aliyuncs.com/images/oupmvGcz7eJ43LmJX-mMqaGbMdrKH498oR6Sh5IzXL.jpeg?x-oss-process=style/txt-water)
