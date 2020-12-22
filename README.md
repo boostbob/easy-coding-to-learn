@@ -6,7 +6,6 @@
 
 ### 文字版本:  
 - [码农公园-起步小白问题搜录](http://www.develop-developer.com/topics/ru7mRRMXL4ZNQosxS)
-- [码农公园-大白话程序员词典](http://www.develop-developer.com/topics/yJp3YYLjYQ2Qm6mG7)
 - [码农公园-大白话 Linux 教程](http://www.develop-developer.com/topics/JWuEYAXx6665hszXe)
 - [码农公园-大白话 Vim 教程](http://www.develop-developer.com/topics/tbSWMYeRubuDotbvn)
 - [码农公园-大白话 Git 教程](http://www.develop-developer.com/topics/7iESoSi7bXYkdfM4z)
