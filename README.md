@@ -14,6 +14,7 @@
 - [码农公园-大白话 PHP 教程](http://www.develop-developer.com/topics/efupY3vfgPGDyo53X)
 - [码农公园-大白话 Python 教程](http://www.develop-developer.com/topics/tQ5iBaLqiezesMe62)
 - [码农公园-大白话 Ruby 教程](https://www.develop-developer.com/topics/hoNtdByiEWJBKxsuC)
+- [码农公园-大白话 Java 教程](https://www.develop-developer.com/topics/7ppEJZSzsTBYt6dL4)
 
 
 ### 视频版本: 
