@@ -13,6 +13,7 @@
 - [码农公园-大白话 Node 教程](http://www.develop-developer.com/topics/u2FMkKa6ZcnThbvSz)
 - [码农公园-大白话 PHP 教程](http://www.develop-developer.com/topics/efupY3vfgPGDyo53X)
 - [码农公园-大白话 Python 教程](http://www.develop-developer.com/topics/tQ5iBaLqiezesMe62)
+- [码农公园-大白话 Ruby 教程](https://www.develop-developer.com/topics/hoNtdByiEWJBKxsuC)
 
 
 ### 视频版本: 
