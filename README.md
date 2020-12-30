@@ -16,10 +16,6 @@
 - [码农公园-大白话 Ruby 教程](https://www.develop-developer.com/topics/hoNtdByiEWJBKxsuC)
 - [码农公园-大白话 Java 教程](https://www.develop-developer.com/topics/7ppEJZSzsTBYt6dL4)
 
-
-### 视频版本: 
-- [码农公园-大白话学编程视频列表](http://www.develop-developer.com/guide_list)
-
 ## 编写不易
 
 编写这些教程不仅需要大量的编程知识，还需要做大量的实践、整理和测试，如果对你有用，帮我点个 star 即可。  
