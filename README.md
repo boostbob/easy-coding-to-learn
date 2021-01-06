@@ -19,7 +19,7 @@
 ## 编写不易
 
 编写这些教程不仅需要大量的编程知识，还需要做大量的实践、整理和测试，如果对你有用，帮我点个 star 即可。  
-欢迎 issue 和 fork，文章首发于[码农公园](http://develop-developer.com)，未经作者同意，请勿转载到其他网站。
+欢迎 issue 和 fork，文章首发于[码农公园](http://develop-developer.com) 和 [B站文集](https://space.bilibili.com/405854455)，未经作者同意，请勿转载到其他网站。
 
 ## 联系作者
 
