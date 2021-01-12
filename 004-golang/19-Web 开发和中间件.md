@@ -204,7 +204,7 @@ request -> newMiddleware-before => logger-before => real.ServeHTTP => logger-aft
 type middleware func(handler http.Handler) http.Handler
 ```
 
-查看 gin.Default() 函数发现它加载中间价的写法是:
+中间件就是 middleware 类型的数组，查看 gin.Default() 函数发现它加载中间价的写法是:
 
 ```go
 engine := New()
