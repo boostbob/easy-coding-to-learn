@@ -129,7 +129,7 @@ func startGrpcHelloServer() {
 }
 ```
 
-接下来做一个java 的客户端来访问它，首先也得根据 proto 文件生成 java 的代码，和 go 不同的时候，指定了 java 的 package 包名，引入依赖 protobuf-java、grpc-protobuf、grpc-stub，记得要先安装 protoc-gen-grpc-java 插件(编译参考 https://github.com/grpc/grpc-java/blob/master/compiler/README.md，下载参考 https://repo1.maven.org/maven2/io/grpc/protoc-gen-grpc-java/1.35.0/)。
+接下来做一个java 的客户端来访问它，首先也得根据 proto 文件生成 java 的代码，和 go 不同的时候，指定了 java 的 package 包名，引入依赖 protobuf-java、grpc-protobuf、grpc-stub，记得要先安装 protoc-gen-grpc-java 插件(编译参考 [https://github.com/grpc/grpc-java/blob/master/compiler/README.md](https://github.com/grpc/grpc-java/blob/master/compiler/README.md)，下载参考 [https://repo1.maven.org/maven2/io/grpc/protoc-gen-grpc-java/1.35.0/](https://repo1.maven.org/maven2/io/grpc/protoc-gen-grpc-java/1.35.0/))。
 
 ```bash
 mkdir -p src/main/java
