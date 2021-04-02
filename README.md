@@ -5,16 +5,20 @@
 ## 原版本和视频
 
 ### 文字版本:  
-- [码农公园-起步小白问题搜录](http://www.develop-developer.com/topics/ru7mRRMXL4ZNQosxS)
-- [码农公园-大白话 Linux 教程](http://www.develop-developer.com/topics/JWuEYAXx6665hszXe)
-- [码农公园-大白话 Vim 教程](http://www.develop-developer.com/topics/tbSWMYeRubuDotbvn)
-- [码农公园-大白话 Git 教程](http://www.develop-developer.com/topics/7iESoSi7bXYkdfM4z)
-- [码农公园-大白话 Golang 教程](http://www.develop-developer.com/topics/ozbedgRzAbYy3xgcD)
-- [码农公园-大白话 Node 教程](http://www.develop-developer.com/topics/u2FMkKa6ZcnThbvSz)
-- [码农公园-大白话 PHP 教程](http://www.develop-developer.com/topics/efupY3vfgPGDyo53X)
-- [码农公园-大白话 Python 教程](http://www.develop-developer.com/topics/tQ5iBaLqiezesMe62)
-- [码农公园-大白话 Ruby 教程](https://www.develop-developer.com/topics/hoNtdByiEWJBKxsuC)
-- [码农公园-大白话 Java 教程](https://www.develop-developer.com/topics/7ppEJZSzsTBYt6dL4)
+- [x] [码农公园-起步小白问题搜录](http://www.develop-developer.com/topics/ru7mRRMXL4ZNQosxS)
+- [ ] [码农公园-大白话 Computer 教程](https://www.develop-developer.com/topics/K9c6fLRMw58rmMHb9)
+- [x] [码农公园-大白话 Linux 教程](http://www.develop-developer.com/topics/JWuEYAXx6665hszXe)
+- [x] [码农公园-大白话 Vim 教程](http://www.develop-developer.com/topics/tbSWMYeRubuDotbvn)
+- [x] [码农公园-大白话 Git 教程](http://www.develop-developer.com/topics/7iESoSi7bXYkdfM4z)
+- [x] [码农公园-大白话 Golang 教程](http://www.develop-developer.com/topics/ozbedgRzAbYy3xgcD)
+- [ ] [码农公园-大白话 Node 教程](http://www.develop-developer.com/topics/u2FMkKa6ZcnThbvSz)
+- [ ] [码农公园-大白话 C/C++ 教程](https://www.develop-developer.com/topics/efupY3vfgPGDyo53X)
+- [ ] [码农公园-大白话 Python 教程](http://www.develop-developer.com/topics/tQ5iBaLqiezesMe62)
+- [ ] [码农公园-大白话 Java 教程](https://www.develop-developer.com/topics/7ppEJZSzsTBYt6dL4)
+- [ ] [码农公园-大白话 Scala 教程](https://www.develop-developer.com/topics/dtkKPkNTZRutqxsES)
+- [ ] [码农公园-大白话 Groovy 教程](https://www.develop-developer.com/topics/HMppctjNKsmPsc7yG)
+- [ ] [码农公园-大白话 Kotlin 教程](https://www.develop-developer.com/topics/HNpjcqQEGbrLYiCM9)
+- [ ] [码农公园-大白话 Ruby 教程](https://www.develop-developer.com/topics/P8BChyPCbvMdfkqcb)
 
 ## 编写不易
 
