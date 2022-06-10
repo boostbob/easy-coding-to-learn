@@ -9,6 +9,6 @@
 
 ## 联系作者
 
-如果你在学习过程中有任何问题可以添加我的VX号 **wx17729835675** 免费答疑，还可加入 **码农公园预备营** 深入学习。
+如果你在学习过程中有任何问题可以添加我的VX号 **wx18628215182** 免费答疑。
 
-![](http://develop-developer.oss-cn-hangzhou.aliyuncs.com/images/oupmvGcz7eJ43LmJX-mMqaGbMdrKH498oR6Sh5IzXL.jpeg?x-oss-process=style/txt-water)
+![](https://codingbygolang.oss-cn-hangzhou.aliyuncs.com/wx.jpeg?x-oss-process=image/resize,m_fixed,h_200,w_200)
